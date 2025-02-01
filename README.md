@@ -7,4 +7,4 @@
 - Blog Design Using Wordpress | **College**
 - JavaScript Beginner Course | **SimpliLearn**
 
-# Particepents
+# Particepents Certificates
