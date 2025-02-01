@@ -8,3 +8,4 @@
 - JavaScript Beginner Course | **SimpliLearn**
 
 # Particepents Certificates
+- UI/UX Design Competition
