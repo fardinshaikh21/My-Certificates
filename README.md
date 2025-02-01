@@ -11,5 +11,3 @@
 - UI/UX Design Competition
 - Racing Compatition
 - Master Programing Quiz
-
-# fardin  
